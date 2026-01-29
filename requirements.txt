@@ -1,0 +1,9 @@
+# Server Framework
+Flask==3.0.0
+Flask-Cors==4.0.0
+
+# AI & Google API
+google-genai==0.3.0
+
+# YouTube Tools
+youtube-transcript-api==0.6.2
