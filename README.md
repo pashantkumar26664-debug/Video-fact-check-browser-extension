@@ -27,6 +27,19 @@ This version is specifically engineered to work with **YouTube Videos** only. It
 - [ ] Add "Chat with Video" feature.
 - [ ] UI improvements for Dark Mode.
 
+AI-Fact-Checker-Project/  (Main Folder)
+│
+├── server/               (Folder 1: सिर्फ Python फाइलों के लिए)
+│   ├── app.py
+│   ├── requirements.txt
+│   └── (any other python scripts)
+│
+└── extension/            (Folder 2: सिर्फ Extension फाइलों के लिए)
+    ├── manifest.json
+    ├── popup.html
+    ├── popup.js
+    ├── content.js
+
 ## 📝 Installation
 1. Clone the repo.
 2. Install dependencies: `pip install -r requirements.txt`
