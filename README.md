@@ -34,4 +34,4 @@ This version is specifically engineered to work with **YouTube Videos** only. It
 4. Load the `extension` folder in Chrome Developer Mode.
 
 ---
-*Created by [Your Name]*
+*Created by PRASHANT KUMAR*
